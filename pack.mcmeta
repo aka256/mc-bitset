@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": "Adding bitset to be used as a bit array"
+    }
+}
